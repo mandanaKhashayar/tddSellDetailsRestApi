@@ -8,6 +8,7 @@ class TddSellDetailsApplicationTests {
 
     @Test
     void contextLoads() {
+
     }
 
 }
